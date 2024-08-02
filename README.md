@@ -1,6 +1,3 @@
-Certainly! Here's a `README.md` template for your iNotes backend application. This README will provide instructions and details about setting up and using your Node.js application with MongoDB for managing user authentication and notes.
-
----
 
 # iNotes Backend Application
 
